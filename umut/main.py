@@ -13,3 +13,5 @@ def print_versiyon():
 if __name__ == '__main__':
     print_versiyon()
     print_conversation('umut','009')
+
+#bu benim yorumum
